@@ -1,3 +1,3 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-![Alt text](https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/figures/github.png)
+![Alt text](https://github.com/adalarveysi/kodluyoruzilkrepo/blob/main/Screenshot_1.png)
