@@ -1,8 +1,3 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-<img
-src=“./Screenshoot_1.png”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+![Alt text](https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/figures/github.png)
